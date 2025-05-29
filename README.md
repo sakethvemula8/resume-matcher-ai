@@ -11,7 +11,6 @@ Built using Python, NLP, and OpenAI GPT — perfect for job seekers and resume r
 
 ![Streamlit](https://img.shields.io/badge/Framework-Streamlit-red)
 ![Python](https://img.shields.io/badge/Python-3.8+-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
 ---
@@ -35,8 +34,6 @@ Built using Python, NLP, and OpenAI GPT — perfect for job seekers and resume r
 ## 🚀 How to Run
 
 ### 1. Clone the repo
-
-```bash
 git clone https://github.com/your-username/resume-matcher-ai.git
 cd resume-matcher-ai
 

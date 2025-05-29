@@ -40,24 +40,24 @@ Built using Python, NLP, and OpenAI GPT — perfect for job seekers and resume r
 git clone https://github.com/your-username/resume-matcher-ai.git
 cd resume-matcher-ai
 
-2. Create and activate virtual environment
+### 2. Create and activate virtual environment
 python -m venv venv
 .\venv\Scripts\activate  # On Windows
 # OR
 source venv/bin/activate  # On macOS/Linux
 
 
-3. Install dependencies
+### 3. Install dependencies
 pip install -r requirements.txt
 
-4. Download spaCy model
+### 4. Download spaCy model
 python -m spacy download en_core_web_sm
 
-5. Run the Streamlit app
+### 5. Run the Streamlit app
 streamlit run main.py
 
 
-Built With :
+### Built With :
 
 Streamlit
 
